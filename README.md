@@ -1,2 +1,2 @@
 # Tarea5
-#En el archivo se incluyen las gramáticas solicitadas.
+En el archivo se incluyen las gramáticas solicitadas.
